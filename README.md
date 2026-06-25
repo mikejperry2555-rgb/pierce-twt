@@ -1,2 +1,2 @@
 # pierce-twt
-example-pierce-twt
+This project provides a Pythonista based analytical framework for Pierce small-signal Traveling-Wave Tube (TWT) analysis with sever modeling. It computes cubic dispersion roots, growth rates, gain profiles, stability margins, and power transfer characteristics. Comprehensive diagnostic plots visualize beam-wave interaction, phase velocity behavior, cumulative gain, and saturation performance.
